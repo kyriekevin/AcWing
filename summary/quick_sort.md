@@ -49,7 +49,7 @@ int main() {
 ```
 
 ```
-cpp
+python3
 ```
 
 ```python3
